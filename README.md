@@ -1,4 +1,4 @@
-### Hi there 👋 I am ARATHI.
+### Hi there :raised_hands: I am ARATHI.
 
 🔭 I’m currently working on the pentesting field.
 
